@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mirian:Me43343223@merndevconnector.lwf5t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "myjwtsecret"
+}
